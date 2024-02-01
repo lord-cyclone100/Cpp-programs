@@ -1,3 +1,7 @@
+/*(a) Write a program in C or C++ to sort a given array using insertion sort algorithm. Show
+the number of comparison required for a given input.
+(b) Write a program to implement Tower of Hanoi Problem.*/
+
 #include<iostream>
 using namespace std;
 
