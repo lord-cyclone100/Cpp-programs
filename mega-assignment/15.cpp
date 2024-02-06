@@ -54,7 +54,7 @@ int main(){
     int a[100],size,n,choice;
 
     cout<<"\nMenu\n";
-    cout<<"1.)Bubble Sort\n";
+    cout<<"1.)Selection Sort\n";
     cout<<"2.)Factorial using tail recursion\n";
     cout<<"Enter your choice:";
     cin>>choice;
